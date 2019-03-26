@@ -4,7 +4,7 @@ sys.path.append(os.pardir)  # 为了导入父目录的文件而进行的设定
 import numpy as np
 import pickle
 from mnist import load_mnist
-from 第三章 import sigmoid, softmax
+from functions import sigmoid, softmax
 
 
 def get_data():
