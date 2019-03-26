@@ -36,3 +36,4 @@ y3=relu(x)/5
 plt.plot(x,y3)
 plt.ylim(-0.1,1.1)
 plt.show()
+
